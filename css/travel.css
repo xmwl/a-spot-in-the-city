@@ -1,0 +1,65 @@
+body {
+	color: #444444;
+	font-family: 'Merriweather', serif;
+}
+
+h1 {
+	margin: 0;
+	padding: 140px 0;
+	text-align: center;
+	color: #fff;
+}
+
+.city-blocks a {
+	font-weight: 800;
+}
+
+a.nyc:hover {
+	background: #5C6BC0;
+}
+
+a.nyc {
+	background: #3F51B5;
+	background: #3F51B5 url(../images/nyc-blue.png) bottom right;
+	background-size: cover;
+}
+
+a.london:hover {
+	background: #EF5350;
+}
+
+a.london {
+	background: #F44336;
+}
+
+a.paris:hover {
+	background: #009688;
+}
+
+a.paris {
+	background: #26A69A;
+}
+
+a.chicago:hover {
+	/*background: #FFEE58;*/
+	background: #FFCA28;
+}
+
+a.chicago {
+	/*background: #FFEB3B;*/
+	background: #FFC107;
+	background: #FFC107 url(../images/chicago-yellow.png) center left;
+	background-size: cover;
+}
+
+a {
+	text-decoration: none;
+	display: block;
+}
+
+.info {
+  padding: 30px;
+  text-align: center;
+}
+
+
