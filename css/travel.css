@@ -15,7 +15,7 @@ h1 {
 }
 
 a.nyc:hover {
-	background: #5C6BC0;
+	/*background: #5C6BC0;*/
 }
 
 a.nyc {
@@ -25,7 +25,7 @@ a.nyc {
 }
 
 a.london:hover {
-	background: #EF5350;
+	/*background: #EF5350;*/
 }
 
 a.london {
@@ -44,7 +44,7 @@ a.paris {
 
 a.chicago:hover {
 	/*background: #FFEE58;*/
-	background: #FFCA28;
+	/*background: #FFCA28;*/
 }
 
 a.chicago {
@@ -64,4 +64,30 @@ a {
   text-align: center;
 }
 
+.emoji {
+	font-weight: 100;
+}
 
+.footer, .info {
+	font-family: 'Lato', sans-serif;
+	font-weight: 600;
+}
+
+.footer ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.footer ul li {
+	display: inline-block;
+}
+
+.footer a {
+  text-decoration: none;
+  margin: 0 15px;
+  padding: 0 0 10px 0;
+  color: #444444;
+  font-size: 14px;
+}
