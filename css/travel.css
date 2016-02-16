@@ -43,12 +43,10 @@ a.paris {
 }
 
 a.chicago:hover {
-	/*background: #FFEE58;*/
 	/*background: #FFCA28;*/
 }
 
 a.chicago {
-	/*background: #FFEB3B;*/
 	background: #FFC107;
 	background: #FFC107 url(../images/chicago-yellow.png) center left;
 	background-size: cover;
