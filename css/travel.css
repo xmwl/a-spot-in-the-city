@@ -20,7 +20,7 @@ a.nyc:hover {
 
 a.nyc {
 	background: #3F51B5;
-	background: #3F51B5 url(../images/nyc-blue.png) bottom right;
+	background: #3F51B5 url(../images/nyc-blue.png) bottom left;
 	background-size: cover;
 }
 
@@ -30,6 +30,8 @@ a.london:hover {
 
 a.london {
 	background: #F44336;
+	background: #F44336 url(../images/london-red.png) bottom left;
+	background-size: cover;
 }
 
 a.paris:hover {
