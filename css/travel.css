@@ -24,6 +24,11 @@ a.nyc {
 	background-size: cover;
 }
 
+a.sf {
+	background: #607D8B;
+	/*background: gray;*/
+}
+
 a.london:hover {
 	/*background: #EF5350;*/
 }
