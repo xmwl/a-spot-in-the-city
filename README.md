@@ -3,5 +3,7 @@
 
 ### Currently serving:
   - New York City
+  - San Francisco (Coming Soon)
   - London
+  - Paris (Coming Soon)
   - Chicago
