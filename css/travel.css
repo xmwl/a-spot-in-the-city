@@ -25,8 +25,8 @@ a.nyc {
 }
 
 a.sf {
-	background: #607D8B;
-	/*background: gray;*/
+	background: #607D8B url(../images/golden_gate.svg) center no-repeat;
+	background-size: cover;
 }
 
 a.london:hover {
