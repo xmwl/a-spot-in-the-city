@@ -57,6 +57,10 @@ a.chicago {
 	background-size: cover;
 }
 
+a.minneapolis {
+  background: #4A148C;
+}
+
 a {
 	text-decoration: none;
 	display: block;
