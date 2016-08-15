@@ -45,6 +45,8 @@ a.london {
 
 a.paris {
 	background: #26A69A;
+  background: #26A69A url(../images/paris.svg) top left;
+  background-size: cover;
 }
 
 a.chicago:hover {
@@ -55,6 +57,10 @@ a.chicago {
 	background: #FFC107;
 	background: #FFC107 url(../images/chicago-yellow.png) center left;
 	background-size: cover;
+}
+
+a.minneapolis {
+  background: #4A148C;
 }
 
 a {
