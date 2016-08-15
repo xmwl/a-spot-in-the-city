@@ -45,6 +45,8 @@ a.london {
 
 a.paris {
 	background: #26A69A;
+  background: #26A69A url(../images/paris.svg) top left;
+  background-size: cover;
 }
 
 a.chicago:hover {
